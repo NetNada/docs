@@ -53,7 +53,6 @@
     }
   ],
   "navigation": [
-    {"pages": ["Start here"]},
     {
       "group": "Carbon accounting",
       "pages": [
