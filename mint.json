@@ -56,10 +56,7 @@
     {
       "group": "Carbon accounting",
       "pages": [
-        "Emissions scopes",
-        "Types of data",
-        "Emission factors",
-        "Conversion factors"
+        "carbon-accounting/scopes"
       ]
     },
     {
