@@ -18,17 +18,21 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@netnada.com.au"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Login",
+    "url": "https://app.netnada.com.au"
   },
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "Guides",
+      "url": "guides"
     }
   ],
   "anchors": [
@@ -49,16 +53,18 @@
     }
   ],
   "navigation": [
+    {"pages": ["Start here"]},
     {
-      "group": "Get Started",
+      "group": "Carbon accounting",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "Emissions scopes",
+        "Types of data",
+        "Emission factors",
+        "Conversion factors"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Adding data",
       "pages": [
         "essentials/markdown",
         "essentials/code",
