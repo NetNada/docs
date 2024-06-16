@@ -37,9 +37,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Start Here",
+      "icon": "rocket",
+      "url": "/docs/starthere"
     },
     {
       "name": "Community",
