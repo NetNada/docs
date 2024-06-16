@@ -37,11 +37,6 @@
   ],
   "anchors": [
     {
-      "name": "Start Here",
-      "icon": "rocket",
-      "url": "https://netnada.mintlify.app/docs/start-here"
-    },
-    {
       "name": "Community",
       "icon": "slack",
       "url": "https://mintlify.com/community"
@@ -54,9 +49,18 @@
   ],
   "navigation": [
     {
+        "group": "Getting Started",
+        "pages": [
+        "start-here"
+        ]
+    }, 
+    {
       "group": "Carbon accounting",
       "pages": [
-        "carbon-accounting/scopes"
+        "carbon-accounting/scopes",
+        "carbon-accounting/data-types",
+        "carbon-accounting/emission-factors",
+        "carbon-accointing/conversion-factors"
       ]
     },
     {
