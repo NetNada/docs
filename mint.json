@@ -39,7 +39,7 @@
     {
       "name": "Start Here",
       "icon": "rocket",
-      "url": "/start-here"
+      "url": "/docs/start-here"
     }
   ],
   "navigation": [
@@ -50,6 +50,15 @@
         "carbon-accounting/data-types",
         "carbon-accounting/emission-factors",
         "carbon-accointing/conversion-factors"
+      ]
+    },
+    {
+      "group": "Organisation details",
+      "pages": [
+        "organisation-details/basic-details",
+        "organisation-details/employee-count",
+        "organisation-details/annual-revenue",
+        "organisation-details/locations"
       ]
     },
     {
