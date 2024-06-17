@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "NetNada",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://uploads-ssl.webflow.com/607f84d205a093a1934769e4/662a7540cacce44a40bc3335_NetNada%20Logo.png",
+    "light": "https://uploads-ssl.webflow.com/607f84d205a093a1934769e4/662a7540cacce44a40bc3335_NetNada%20Logo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
